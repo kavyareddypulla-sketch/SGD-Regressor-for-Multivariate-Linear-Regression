@@ -54,8 +54,7 @@ print("\nPredictions:\n",Y_pred[:5])
 
 ## Output:
 
-![image](https://github.com/user-attachments/assets/579b2ade-fd49-4163-88ce-e4e213f73754)
-
+<img width="421" height="209" alt="image" src="https://github.com/user-attachments/assets/77d3073d-b0ad-48c1-85c3-756b631dec7f" />
 
 ## Result:
 Thus the program to implement the multivariate linear regression model for predicting the price of the house and number of occupants in the house with SGD regressor is written and verified using python programming.
